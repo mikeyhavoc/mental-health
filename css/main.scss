@@ -42,11 +42,13 @@ body {
 
 .header-container {
   background-color: black;
-  background: url('../img/bg.jpg') no-repeat 50% 0;
-  color: #fff;
+  background: url('../img/h-logo.jpg') no-repeat;
+  background-size: cover;
+  color: rgb(241, 7, 7);
 
   h1 {
-    color: #fff;
+    color: rgb(245, 8, 8);
+    background: rgba(247, 245, 245, 0.432);
   }
   // background-attachment: fixed;
   background-size: cover;

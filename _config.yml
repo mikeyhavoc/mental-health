@@ -53,3 +53,9 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+# disqus comments
+disqus:
+    # leave shortname blank to disable comments site-wide
+    # disable comments for any post by adding 'comments: false' 
+    # to that YAML Front Matter.
+    shortname: disqus_mikeyhavoc

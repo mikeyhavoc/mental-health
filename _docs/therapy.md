@@ -34,7 +34,7 @@ As a top note. Just as not all medications do not work for all mental illnesses,
 
 There might be many specialized therapies out there, sometimes these are a fit _sometimes_. Other times we need a psychologoist or a therapist who is expertise to help with how we connect or do not connect with people. Therapy is _more than our diagnosis just like we are_. 
 
-### My First Round
+### My First Round of Lying 
 
 >I was diagnosed at an early age with bipolar, I was sent to therapy in 2005 but not ready to accept it... I discussed a light hearted story of my life, a light hearted approach to my problems, the things that made my problems sound like i could get by. I talked about doubts...but nothing under anything that felt of discomfort. This was where I made my mistakes the first time. I regret it now.
 

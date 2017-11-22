@@ -7,7 +7,7 @@ author: michael williams
 Table of contents
 - [recovery](#Recovery)
 - [Therapy Questions](#Therapy-Questions)
-- [Therapy ]
+- [Therapy Notes](#Thearapy-Notes)
 
 
 

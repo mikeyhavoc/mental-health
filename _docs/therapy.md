@@ -5,9 +5,9 @@ date: 2017-11-21 17:16:49 -0400
 author: michael williams 
 ---
 Table of contents
-- [recovery](#Recovery)
-- [Therapy Questions](#Therapy-Questions)
-- [Therapy Notes](#Thearapy-Notes)
+- [recovery](#recovery)
+- [Therapy Questions](#therapy-questions)
+- [Therapy Notes](#therapy-notes)
 
 
 # Recovery

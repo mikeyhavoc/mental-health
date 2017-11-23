@@ -8,6 +8,7 @@ Table of contents
 - [recovery](#recovery)
 - [Therapy Questions](#therapy-questions)
 - [Therapy Notes](#therapy-notes)
+- [My First Round of Lying](#my-first-round-of-lying)
 
 
 # Recovery
@@ -43,3 +44,7 @@ I spent probably 3 to 4 years going off and on in therapy but I always felt kind
 ### My 2017 Meltdown..Rise?
 
 I found myself in a circle once again. Sleepless night. Nightares, not knowing who I was as a person. I could not explain myself to myself...let alone to anyone. I felt I was a failure.. I felt I was an inferior being and something was wrong with me. Until I saw on television all these stars coming forward with their past pains. Of abuse, and how shame could only be helped by seeking treatment. Not burying it deep within and holding it in, letting it turn you into the monster that came before you, or putting up fronts.Especially since, eventually anything We built, it sat there on the window seal of our accomplishments in the future. Waiting in the dark parts of our minds, still...not going away...not being relieved..haunting...day and night. Until we start to Shed these past pains. So I then again _sought therapy_.
+
+## Finding A Therapist without insurance
+
+I looked up services in my area. I contacted the recommended center, and I made appointments. _Finally_ my day arrived, I went in and filled out there sheets of paper (more like a novel). I met the therapist I was assigned. Then this kicked off the beginning of the journey to find the one to the right one. This was a difficult time. I research everything, I analyze all I can, and I recommend you do the same in this situation. 

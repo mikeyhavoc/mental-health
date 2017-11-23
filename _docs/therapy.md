@@ -64,3 +64,6 @@ This one will involve, researching your plan type, your network, and info how mu
 - asking what your co pay is to visit them.
 - also, how often you are allowed to visit them per month/6 months/ and year.
 
+### Decisions Decisions
+
+One, once you start calling sometimes when you start talking to them and they ask what your illness is. They will have specialist for that illness. If it is a man or woman and your not comfortable with a man or woman. **Note** This is a time to ask if they can acommodate you. This is going to be your therapy going on bi-ananuly. You need someone that you can discuss difficult things with.

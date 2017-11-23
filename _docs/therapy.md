@@ -9,6 +9,7 @@ Table of contents
 - [Therapy Questions](#therapy-questions)
 - [Therapy Notes](#therapy-notes)
 - [My First Round of Lying](#my-first-round-of-lying)
+- []
 
 
 # Recovery
@@ -47,4 +48,8 @@ I found myself in a circle once again. Sleepless night. Nightares, not knowing w
 
 ## Finding A Therapist without insurance
 
-I looked up services in my area. I contacted the recommended center, and I made appointments. _Finally_ my day arrived, I went in and filled out there sheets of paper (more like a novel). I met the therapist I was assigned. Then this kicked off the beginning of the journey to find the one to the right one. This was a difficult time. I research everything, I analyze all I can, and I recommend you do the same in this situation. 
+I looked up services in my area. I contacted the recommended center, and I made appointments. _Finally_ my day arrived, I went in and filled out there sheets of paper (more like a novel). I met the therapist I was assigned. Then this kicked off the beginning of the journey to find the one to the right one. This was a difficult time. I research everything, I analyze all I can, and I recommend you do the same in this situation. Most Public health care sites do have a page about the bio's of the workers. So you can get some background on them, whether thats a bio, or just their professional credentials and title. Also, if not here within there website they should be able to help explain what their office specializes if not by Dr..
+
+### Experience In this Office
+
+If this is your option, sometimes they make you go through group therapy first. Not all, But the one near me **use** to have you do four group therapy sessions before getting access to a personal therapist. I am not saying others do this. Nor the one by me does this anymore but some offices that take medicaid might still do this.

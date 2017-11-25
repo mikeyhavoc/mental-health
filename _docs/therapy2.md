@@ -11,7 +11,7 @@ As a top note. Just as not all medications do not work for all mental illnesses,
 
 Part 2, of Dear therapy. As you recall in Dear Therapy part 1, I was discussing setting up that first appointment. It was more about setting up the appointment and some of the things you could possibly expect. From what I went through here in, FL.
 Next I would like discuss the first session in therapy. 
-once you get inside with a therapist. 
+once you get inside with a therapist. This is mostly parts of what I recall about _my first therapy session_. parts of what _I felt_ and things I brought up. Too what I wish I did, and parts of this article will be about thoughts and contemplation to be in your _first therapy_ session. 
 
 ## Therapy Questions
 

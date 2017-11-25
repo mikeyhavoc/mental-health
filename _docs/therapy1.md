@@ -17,17 +17,7 @@ Before I start writing, there is a million ways to do everything.
 Be open, do not close doors, and you are always able to be yourself.
 This is just one discussion on the topic their are many on it. please be open minded.
 
->I am doingg...I am umm doing ..okay I think I am here because I am ready to start my recovery.
-
-## Therapy Questions
-
-I am in therapy. 
-- what does that mean?
-- what do I do in here?
-- am I crazy for being here?
-- am I weak?
-
-How do I break the news to you(people I love)?
+>I am doingg...I am ..okay I think I am ready to start my recovery.
 
 ## Therapy Notes
 

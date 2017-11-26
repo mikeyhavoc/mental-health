@@ -23,7 +23,7 @@ So there I was in therapy, I tossed and turned all night, I felt sick to my stom
 
 ### What Entails
 
-This is where my story fades... for now. As I embark on my recovery. I encourage others to do the same. To find that right therapist, to start your recovery. Their is some uncomfrotable feelings letting go of the pain. Yet once you do, it feels like it cannot harm you anymore. You get to see why you repeat the cycles of self defeat. These moments that help us in our struggle. The catch is letting your guard down, Opening up, sometimes explaining things that are difficult, some are uncomfortable at first, and then really seeing them for what they are.
+This is where my story fades... for now. As I embark on my recovery. I encourage others to do the same. To find that right therapist, to start your recovery. Their is some uncomfrotable feelings letting go of the pain. Yet once you do, it feels like it cannot harm you anymore. You get to see why you repeat the cycles of self defeat. These moments that help us in our struggle. The catch, is letting your guard down, Opening up, sometimes explaining things that are difficult, some are uncomfortable at first, and then really seeing them for what they are.
 
 ## Therapy Questions
 

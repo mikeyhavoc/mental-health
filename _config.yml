@@ -1,8 +1,7 @@
 # Site settings
-title: In Reveries of Mania 
+title: Creative Concious Healing
 email: manicdesigner@gmail.com
-description: >
-  In Reveries of Mania. Is a mental health page, focused primarily on Bipolar, A.D.D and A.D.H.D. As I create there will be pages and posts about what I have encountered, views, and any info I can pass to others. 
+description: > Creative Concious Healing Center blog and originating site. For an upcoming Health goal in Bradenton FL. 
 
 baseurl: "/mental-health" # the subpath of your site, e.g. /blog/
 url: https://mikeyhavoc.github.io/mental-health # the base hostname & protocol for your site
@@ -11,7 +10,7 @@ git_edit_address: https://github.com/mikeyhavoc/mental-health/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: paper
+bootwatch: flatly
 
 # Build settings
 markdown: kramdown

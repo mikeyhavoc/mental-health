@@ -25,11 +25,15 @@ So there I was in therapy, I tossed and turned all night, I felt sick to my stom
 
 This is where my story fades... for now. As I embark on my recovery. I encourage others to do the same. To find that right therapist, to start your recovery. Their is some uncomfrotable feelings letting go of the pain. Yet once you do, it feels like it cannot harm you anymore. You get to see why you repeat the cycles of self defeat. These moments that help us in our struggle. The catch, is letting your guard down, Opening up, sometimes explaining things that are difficult, some are uncomfortable at first, and then really seeing them for what they are.
 
-## Questions 
+## Possible Questions
 
 ### Does It Happen Overnight
 
 Therapy does not happen overnight, I wish I could say it was some wonder drug. Or something that was closer to seeing a psychologist even. But far from it, I would say it can take probably a few months to possibly much longer. Therapy is a due process of taking bite size chunks of your past, present, even what you think of the future and discussing them with a professional. On a timed basis, so yes this does take a good amount of time usuallly. Not the fact it is hard to open up as humans, especially when we have been hurt in the past; Which is why we need this so badly.
+
+### What Will I Do
+
+When you go in, you are there for technically a recovery. I might mention that a lot. Yet, it is true.  
 
 ## Therapy Questions
 
